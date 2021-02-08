@@ -61,3 +61,10 @@ $ cd /home/workspace/catkin_ws/
 $ source devel/setup.bash
 $ rosrun rqt_image_view rqt_image_view  
 ```
+
+#### Future Work/Feedback
+
+- [C++ class for ROS Nodes](https://github.com/wsnewman/ros_class/tree/master/example_ros_class)
+- [cv_bridge usage](http://wiki.ros.org/cv_bridge/Tutorials/UsingCvBridgeToConvertBetweenROSImagesAndOpenCVImages)
+- [OpenCV for ball detection-pyimagesearch](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+- [OpenCV for ball detection](http://profs.scienze.univr.it/~bloisi/tutorial/balldetection.html)
